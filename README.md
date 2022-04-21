@@ -1,1 +1,3 @@
-Problem statement is defined in the file "Bungee Coding Round.docx". Please refer to this file. 
+The required libraries to execute this code is pandas.
+
+After importing the .csv files the required functions are performed
